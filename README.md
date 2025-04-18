@@ -53,8 +53,7 @@ domain.com/
 
 ## License
 
-Subfinder is made by the (https://github.com/0xcolaa).
-
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for full details.
 
 
 
