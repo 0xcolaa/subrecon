@@ -40,6 +40,7 @@ To run the script:
 ```bash
 ./subrecon.sh
 ```
+After running the script, provide the target domain :
 
 ## Output
 
